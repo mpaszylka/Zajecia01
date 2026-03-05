@@ -19,4 +19,5 @@ podatek_Belki = function(przychod, koszt, typ_aktywa){
 podatek_Belki(15000, 10000, "akcje")        
 podatek_Belki(8000, 10000, "akcje")         
 podatek_Belki(150000, 50000, "kryptowaluty")
+
 podatek_Belki(1500, 1000, "lokata")
